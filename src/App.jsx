@@ -181,7 +181,7 @@ const App = () => {
             <p className="text-blue-100 text-lg">Explore our global opportunities and find your place at Diodes.</p>
           </div>
           <div className="flex gap-4">
-            <Button className="bg-white text-[#00529B] hover:bg-blue-50">Experienced Hires</Button>
+            <Button className="bg-white text-[#000000] hover:bg-blue-50">Experienced Hires</Button>
             <Button className="bg-white/10 hover:bg-white/20 border-white/30 border">Global Sites</Button>
           </div>
         </div>
